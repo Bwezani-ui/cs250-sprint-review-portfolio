@@ -1,5 +1,5 @@
 # cs250-sprint-review-portfolio
-Sprint Review and Retrospective submission for CS 250 portfolio
+## Sprint Review and Retrospective submission for CS 250 portfolio
 This course has provided me with knowledge on how to clarify user needs by breaking them down into specific, measurable, achievable action based goals utilizing user stories. User stories provided me with insight to have the end user in mind at every stage of development and provided me with real tasks based on real meaningful value to analyze. By thinking in terms of what the user is trying to accomplish, I felt I had a better interpretation of the needs and could assess the features I was designing.
 
 Now when I develop programs, I approach each project with an Agile mindset regardless of whether we are working under an Agile SDLC. This involves breaking the workflow into smaller increments while planning sprints and continuously improving the team through retrospective processes. I found Agile processes such as daily standup meetings or sprint reviews extremely useful in maintaining focus and plans for the team in the context of workflow or preparing to adjust as needed. I plan to carry forward various Agile project processes into my career. This will allow my future projects to become more cohesive and collaborative.
